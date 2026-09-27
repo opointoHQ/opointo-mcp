@@ -100,5 +100,3 @@ platform.
 - Privacy: [opointo.com/privacy](https://opointo.com/privacy)
 - Terms: [opointo.com/terms](https://opointo.com/terms)
 - Contact: contact@opointo.com
-
-opointo is made by booqend pty ltd.
